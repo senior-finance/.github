@@ -1,4 +1,4 @@
-![SOPIE Senior Of Finance   artificial IntelligEnce (1)](https://github.com/user-attachments/assets/20cdc6d9-204c-4274-b759-c2e4f830d3ef)
+![SOPIE Senior Of Finance   artificial IntelligEnce (1)](https://github.com/user-attachments/assets/503ee1ed-bde8-418f-95fa-5ef24bb450c0)
 
 # 👵👴 시니어 금융 플랫폼 - 부금이
 
