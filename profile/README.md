@@ -1,6 +1,6 @@
 ![SOPIE Senior Of Finance   artificial IntelligEnce (1)](https://github.com/user-attachments/assets/503ee1ed-bde8-418f-95fa-5ef24bb450c0)
 
-# 👵👴 시니어 금융 플랫폼 - 부금이
+## 👵👴 시니어 금융 플랫폼 - 부금이
 
 노년층을 위한 쉽고 안전한 금융 서비스 플랫폼입니다.  
 간편한 인터페이스, 큰 글씨, 보이스 안내 등 사용자 친화적인 기능을 제공합니다.
