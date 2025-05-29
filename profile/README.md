@@ -1,7 +1,8 @@
 ![SOPIE Senior Of Finance   artificial IntelligEnce (1)](https://github.com/user-attachments/assets/503ee1ed-bde8-418f-95fa-5ef24bb450c0)
-![최종 판넬11111](https://github.com/user-attachments/assets/87005d1c-d6c1-4bba-879d-51129a855592)
 
 ## 👵👴 부모 세대를 위한 금융 서비스 플랫폼 - 부금이
+
+![최종 판넬11111](https://github.com/user-attachments/assets/87005d1c-d6c1-4bba-879d-51129a855592)
 
 직관이고 편리한 금융 서비스와 함께,
 고령층의 경제적 자립을 도울 수 있도록 도와드릴게요
