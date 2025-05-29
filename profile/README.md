@@ -8,7 +8,7 @@
 고령층의 경제적 자립을 도울 수 있도록 도와드릴게요
 
 ## 📽️ 시연 동영상 (Video)
-https://youtu.be/ztNZe0dlqCQ
+https://www.youtube.com/watch?v=VChmwAH1Hc4
 
 ---
 
