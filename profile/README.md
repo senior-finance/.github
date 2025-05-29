@@ -7,6 +7,9 @@
 직관이고 편리한 금융 서비스와 함께,
 고령층의 경제적 자립을 도울 수 있도록 도와드릴게요
 
+## 📽️ 시연 동영상 (Video)
+https://youtu.be/ztNZe0dlqCQ
+
 ---
 
 ## 🧭 목차 (Table of Contents)
